@@ -1,0 +1,1248 @@
+{
+    "Vertex Map": [
+        400001157,
+        300000138
+    ],
+    "Vertex Color": [
+        431000166,
+        300000138
+    ],
+    "Track": [
+        1027923,
+        300000138
+    ],
+    "Time": [
+        400001107,
+        300000138
+    ],
+    "Spy": [
+        400001119,
+        300000138
+    ],
+    "Spline": [
+        400001148,
+        300000138
+    ],
+    "Sound": [
+        400001143,
+        300000138
+    ],
+    "Result": [
+        400001118,
+        300000138
+    ],
+    "Remark": [
+        400001129,
+        300000138
+    ],
+    "Reference": [
+        400001156,
+        300000138
+    ],
+    "Ray Collision": [
+        400001161,
+        300000138
+    ],
+    "Random": [
+        400001100,
+        300000138
+    ],
+    "Polygon": [
+        400001140,
+        300000138
+    ],
+    "Point": [
+        400001112,
+        300000138
+    ],
+    "Object Index": [
+        400001152,
+        300000138
+    ],
+    "Object": [
+        400001000,
+        300000138
+    ],
+    "Noise": [
+        400001144,
+        300000138
+    ],
+    "MonoFlop": [
+        400001155,
+        300000138
+    ],
+    "Memory": [
+        400001130,
+        300000138
+    ],
+    "Link List": [
+        400001160,
+        300000138
+    ],
+    "Get Nearest Point on Spline": [
+        1039902,
+        300000138
+    ],
+    "Get Nearest Point": [
+        1039901,
+        300000138
+    ],
+    "Freeze": [
+        400001132,
+        300000138
+    ],
+    "FlipFlop": [
+        400001145,
+        300000138
+    ],
+    "Constant": [
+        400001120,
+        300000138
+    ],
+    "Color Temperature": [
+        450000060,
+        300000138
+    ],
+    "Collision": [
+        400001147,
+        300000138
+    ],
+    "Bounding Box": [
+        400001146,
+        300000138
+    ],
+    "Bitmap": [
+        450000037,
+        300000138
+    ],
+    "Vectors2Matrix": [
+        400001110,
+        300000134
+    ],
+    "Vector2Reals": [
+        400001102,
+        300000134
+    ],
+    "Universal": [
+        400001103,
+        300000134
+    ],
+    "Reals2Vector": [
+        400001101,
+        300000134
+    ],
+    "Matrix2Vectors": [
+        400001109,
+        300000134
+    ],
+    "Switch": [
+        400001127,
+        300000133
+    ],
+    "NOT": [
+        400001111,
+        300000133
+    ],
+    "Boole": [
+        400001122,
+        300000133
+    ],
+    "Python": [
+        1022471,
+        300000135
+    ],
+    "Vector2Matrix": [
+        400001114,
+        300000135
+    ],
+    "Trigonometric": [
+        400001108,
+        300000135
+    ],
+    "Range Mapper": [
+        400001136,
+        300000135
+    ],
+    "Negate": [
+        400001124,
+        300000135
+    ],
+    "Mix": [
+        400001128,
+        300000135
+    ],
+    "MatrixMulVector": [
+        400001149,
+        300000135
+    ],
+    "Matrix2HPB": [
+        400001115,
+        300000135
+    ],
+    "Math": [
+        400001121,
+        300000135
+    ],
+    "Invert": [
+        400001123,
+        300000135
+    ],
+    "Formula": [
+        400001133,
+        300000135
+    ],
+    "FloatMath": [
+        400001138,
+        300000135
+    ],
+    "FloatFunc": [
+        400001139,
+        300000135
+    ],
+    "Dot Product": [
+        400001141,
+        300000135
+    ],
+    "Distance": [
+        400001116,
+        300000135
+    ],
+    "Degree": [
+        400001135,
+        300000135
+    ],
+    "Cross Product": [
+        400001104,
+        300000135
+    ],
+    "Colorspace": [
+        400001142,
+        300000135
+    ],
+    "Clamp": [
+        400001113,
+        300000135
+    ],
+    "Absolute": [
+        400001134,
+        300000135
+    ],
+    "Override": [
+        431000066,
+        300000140
+    ],
+    "Order": [
+        400001126,
+        300000140
+    ],
+    "Is Null": [
+        400001106,
+        300000140
+    ],
+    "Equal": [
+        400001105,
+        300000140
+    ],
+    "Condition": [
+        400001117,
+        300000140
+    ],
+    "Compare": [
+        400001125,
+        300000140
+    ],
+    "Tag": [
+        400001153,
+        300000139
+    ],
+    "Selection": [
+        400001150,
+        300000139
+    ],
+    "ObjectList": [
+        400001159,
+        300000139
+    ],
+    "Material": [
+        400001158,
+        300000139
+    ],
+    "Iteration": [
+        400001131,
+        300000139
+    ],
+    "Hierarchy": [
+        400001151,
+        300000139
+    ],
+    "Hair Selection": [
+        450000073,
+        300000139
+    ],
+    "Dynamics Spring State": [
+        180000035,
+        300000138
+    ],
+    "Dynamics Proximity": [
+        180000033,
+        300000138
+    ],
+    "Dynamics Connector State": [
+        180000036,
+        300000138
+    ],
+    "Dynamics Collision": [
+        180000031,
+        300000138
+    ],
+    "Dynamics Body State": [
+        180000032,
+        300000138
+    ],
+    "Sample": [
+        1019296,
+        300000138
+    ],
+    "Falloff": [
+        1019302,
+        300000138
+    ],
+    "Data": [
+        1019010,
+        300000138
+    ],
+    "Hair Proximity": [
+        450000069,
+        300000138
+    ],
+    "Hair Points": [
+        450000071,
+        300000138
+    ],
+    "Hair Object": [
+        450000067,
+        300000138
+    ],
+    "Hair Intersection": [
+        450000070,
+        300000138
+    ],
+    "Hair Collision": [
+        450000074,
+        300000138
+    ],
+    "MoGraph Selection": [
+        1021344,
+        1021344
+    ],
+    "MoGraph Weight": [
+        440000233,
+        1019760
+    ],
+    "PVolumePosition": [
+        1001441,
+        300000141
+    ],
+    "PVelocityConvert": [
+        1001410,
+        300000141
+    ],
+    "PTimer": [
+        1001429,
+        300000141
+    ],
+    "PSurfacePosition": [
+        1001440,
+        300000141
+    ],
+    "PSpinConvert": [
+        1001408,
+        300000141
+    ],
+    "PGroup": [
+        1001417,
+        300000141
+    ],
+    "PGetData": [
+        1001403,
+        300000141
+    ],
+    "PChronometer": [
+        1001430,
+        300000141
+    ],
+    "PWind": [
+        1001427,
+        300000141
+    ],
+    "PVelocity": [
+        1001422,
+        300000141
+    ],
+    "PRepulse&Bounce": [
+        1001436,
+        300000141
+    ],
+    "PPosition Follow": [
+        1001412,
+        300000141
+    ],
+    "PMotionInheritance": [
+        1001423,
+        300000141
+    ],
+    "PGravity": [
+        1001426,
+        300000141
+    ],
+    "PFriction": [
+        1001421,
+        300000141
+    ],
+    "PFreeze": [
+        1001432,
+        300000141
+    ],
+    "PForceObject": [
+        1050000,
+        300000141
+    ],
+    "PDeflector": [
+        1001411,
+        300000141
+    ],
+    "PBubble": [
+        1001424,
+        300000141
+    ],
+    "PSpin": [
+        1001415,
+        300000141
+    ],
+    "PSize": [
+        1001419,
+        300000141
+    ],
+    "PShape": [
+        1001413,
+        300000141
+    ],
+    "PSetData": [
+        1001404,
+        300000141
+    ],
+    "PScale": [
+        1001420,
+        300000141
+    ],
+    "PRolling": [
+        1001437,
+        300000141
+    ],
+    "PMass": [
+        1001418,
+        300000141
+    ],
+    "PDie": [
+        1001425,
+        300000141
+    ],
+    "PAlignment": [
+        1001416,
+        300000141
+    ],
+    "PStorm": [
+        1001382,
+        300000141
+    ],
+    "PMatterWaves": [
+        1001447,
+        300000141
+    ],
+    "PFragment": [
+        1001431,
+        300000141
+    ],
+    "PDraw": [
+        1001445,
+        300000141
+    ],
+    "PBorn": [
+        1001442,
+        300000141
+    ],
+    "PBlurp": [
+        1001444,
+        300000141
+    ],
+    "PLight": [
+        1001438,
+        300000141
+    ],
+    "PAge": [
+        1001406,
+        300000141
+    ],
+    "P Pass AB": [
+        1001405,
+        300000141
+    ],
+    "P Pass": [
+        1001435,
+        300000141
+    ],
+    "MotionTracker User Tracks": [
+        1022471,
+        300000141,
+        {
+            "kind": "unavailable",
+            "reason": "MotionTracker User Tracks needs its captured Python source and ports; operator ID 1022471 alone creates a blank Python node."
+        }
+    ],
+    "Laubwerk TP Spawn": [
+        1031046,
+        300000138
+    ],
+    "C4D Shader": [
+        1036762,
+        300000138
+    ],
+    "C4D Shader Wrapper": [
+        1040213,
+        300000138
+    ],
+    "Output": [
+        1036746,
+        300000138
+    ],
+    "RS MultiShader": [
+        1040190,
+        300000138
+    ],
+    "RS Reference": [
+        1040192,
+        300000138
+    ],
+    "RS Shader": [
+        1036227,
+        300000138
+    ],
+    "Command Line Argument": [
+        1066814,
+        300000138
+    ],
+    "Action Timer": [
+        1022471,
+        300000135,
+        {
+            "kind": "python_preset",
+            "snapshot": {
+                "format": "cvfx.xpresso.python-node.snapshot.v1",
+                "original_xpool_path": "System Presets / Animation and Time / Action Timer",
+                "operator_id": 1022471,
+                "name": "Action Timer",
+                "python_source": "import c4d\n\ndef main():\n    global Action, State # Output ports\n    Action = 0\n    if CurrentTime >= StartTime: # Current time is greater or equal to the StartTime\n        if CurrentTime <= StopTime: # Current time is lower or equal to the Stoptime\n            Action = 1\n            startSec = StartTime.Get()\n            stopSec = StopTime.Get()\n            curSec = CurrentTime.Get()\n            if startSec == stopSec: # Prevent division by zero\n                State = 1.0\n            else:\n                State = 1.0 - ((stopSec - curSec) / (stopSec - startSec))\n        else:\n            State = 1.0\n    else:\n        State = 0.0\n\n",
+                "python_sha256": "1284f5da960787b2593bf561992c36b8519ce07c6e16b61d1e517bf0772c61c0",
+                "ports": {
+                    "inputs": [
+                        {
+                            "name": "CurrentTime",
+                            "main_id": 4018,
+                            "sub_id": 1003,
+                            "type_id": 400007007,
+                            "visible": true,
+                            "direction": "input"
+                        },
+                        {
+                            "name": "StartTime",
+                            "main_id": 4018,
+                            "sub_id": 1004,
+                            "type_id": 400007007,
+                            "visible": true,
+                            "direction": "input"
+                        },
+                        {
+                            "name": "StopTime",
+                            "main_id": 4018,
+                            "sub_id": 1005,
+                            "type_id": 400007007,
+                            "visible": true,
+                            "direction": "input"
+                        }
+                    ],
+                    "outputs": [
+                        {
+                            "name": "Action",
+                            "main_id": 4000,
+                            "sub_id": 1006,
+                            "type_id": 400007002,
+                            "visible": true,
+                            "direction": "output"
+                        },
+                        {
+                            "name": "State",
+                            "main_id": 4004,
+                            "sub_id": 1007,
+                            "type_id": 400007003,
+                            "visible": true,
+                            "direction": "output"
+                        }
+                    ]
+                },
+                "operator_container": {
+                    "type": "BaseContainer",
+                    "entries": [
+                        {
+                            "id": 402,
+                            "value": 0
+                        },
+                        {
+                            "id": 3999,
+                            "value": 1
+                        },
+                        {
+                            "id": 400,
+                            "value": "import c4d\n\ndef main():\n    global Action, State # Output ports\n    Action = 0\n    if CurrentTime >= StartTime: # Current time is greater or equal to the StartTime\n        if CurrentTime <= StopTime: # Current time is lower or equal to the Stoptime\n            Action = 1\n            startSec = StartTime.Get()\n            stopSec = StopTime.Get()\n            curSec = CurrentTime.Get()\n            if startSec == stopSec: # Prevent division by zero\n                State = 1.0\n            else:\n                State = 1.0 - ((stopSec - curSec) / (stopSec - startSec))\n        else:\n            State = 1.0\n    else:\n        State = 0.0\n\n"
+                        },
+                        {
+                            "id": 200000003,
+                            "value": "Action Timer will set the Action \noutput port to True(1) when the \ncurrent time is inbetween the Start \nand the Stop time. Additionaly the\nprogress of the timer is available\nas a percentage at the State output\nport."
+                        },
+                        {
+                            "id": 4018,
+                            "value": {
+                                "type": "BaseContainer",
+                                "entries": [
+                                    {
+                                        "id": 1004,
+                                        "value": {
+                                            "type": "BaseTime",
+                                            "seconds": 0.3333333333333333
+                                        }
+                                    },
+                                    {
+                                        "id": 1005,
+                                        "value": {
+                                            "type": "BaseTime",
+                                            "seconds": 1.0
+                                        }
+                                    },
+                                    {
+                                        "id": 1003,
+                                        "value": {
+                                            "type": "BaseTime",
+                                            "seconds": 0.0
+                                        }
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "limitations": [
+                    "Saved port IDs may differ when recreated; loader remaps per-port nested defaults.",
+                    "Reproduction must be verified in Cinema 4D; scene references are not included."
+                ]
+            }
+        }
+    ],
+    "Soft Target": [
+        1022471,
+        300000135,
+        {
+            "kind": "python_preset",
+            "snapshot": {
+                "format": "cvfx.xpresso.python-node.snapshot.v1",
+                "original_xpool_path": "System Presets / Calculations / Soft Target",
+                "operator_id": 1022471,
+                "name": "Soft Target",
+                "python_source": "import c4d\n\ndef main():\n    global Rotation # Output ports\n    objectMatrix = Object.GetMg()\n    targetMatrix = Target.GetMg()\n    \n    p1 = objectMatrix.off\n    p2 = targetMatrix.off\n    \n    matrix = c4d.Matrix()    \n    matrix.off = p1\n    matrix.v1 = (p2 - p1).Cross(c4d.Vector(0,0,1))\n    matrix.v2 = (p2 - p1).Cross(c4d.Vector(0,1,0))\n    matrix.v3 = (p2 - p1).GetNormalized()\n\n    newRotation = c4d.utils.MatrixToHPB(matrix)\n    oldRotation = c4d.utils.MatrixToHPB(objectMatrix)\n    newRotation.z = oldRotation.z\n    \n    Rotation = c4d.Vector()\n    Rotation.x = oldRotation.x + ((newRotation.x - oldRotation.x) * Smooth)\n    Rotation.y = oldRotation.y + ((newRotation.y - oldRotation.y) * Smooth)\n    Rotation.z = oldRotation.z + ((newRotation.z - oldRotation.z) * Smooth)",
+                "python_sha256": "9187bd8845084e69e2638ac1861a09730a7843f8cd0f648d71e037827ee4d78c",
+                "ports": {
+                    "inputs": [
+                        {
+                            "name": "Target",
+                            "main_id": 4013,
+                            "sub_id": 1000,
+                            "type_id": 133,
+                            "visible": true,
+                            "direction": "input"
+                        },
+                        {
+                            "name": "Object",
+                            "main_id": 4013,
+                            "sub_id": 1001,
+                            "type_id": 133,
+                            "visible": true,
+                            "direction": "input"
+                        },
+                        {
+                            "name": "Smooth",
+                            "main_id": 4005,
+                            "sub_id": 1002,
+                            "type_id": 400007003,
+                            "visible": true,
+                            "direction": "input"
+                        }
+                    ],
+                    "outputs": [
+                        {
+                            "name": "Rotation",
+                            "main_id": 4006,
+                            "sub_id": 1003,
+                            "type_id": 400007004,
+                            "visible": true,
+                            "direction": "output"
+                        }
+                    ]
+                },
+                "operator_container": {
+                    "type": "BaseContainer",
+                    "entries": [
+                        {
+                            "id": 402,
+                            "value": 0
+                        },
+                        {
+                            "id": 3999,
+                            "value": 1
+                        },
+                        {
+                            "id": 400,
+                            "value": "import c4d\n\ndef main():\n    global Rotation # Output ports\n    objectMatrix = Object.GetMg()\n    targetMatrix = Target.GetMg()\n    \n    p1 = objectMatrix.off\n    p2 = targetMatrix.off\n    \n    matrix = c4d.Matrix()    \n    matrix.off = p1\n    matrix.v1 = (p2 - p1).Cross(c4d.Vector(0,0,1))\n    matrix.v2 = (p2 - p1).Cross(c4d.Vector(0,1,0))\n    matrix.v3 = (p2 - p1).GetNormalized()\n\n    newRotation = c4d.utils.MatrixToHPB(matrix)\n    oldRotation = c4d.utils.MatrixToHPB(objectMatrix)\n    newRotation.z = oldRotation.z\n    \n    Rotation = c4d.Vector()\n    Rotation.x = oldRotation.x + ((newRotation.x - oldRotation.x) * Smooth)\n    Rotation.y = oldRotation.y + ((newRotation.y - oldRotation.y) * Smooth)\n    Rotation.z = oldRotation.z + ((newRotation.z - oldRotation.z) * Smooth)"
+                        },
+                        {
+                            "id": 200000003,
+                            "value": "Soft Target works just like the \nExpression Tag. One object \nwill be rotated so it's Z axis \nwill point to the target object.\nYou have to feed the Rotation\noutput port into the global rotation\nof the object.\nThe Smooth input port allows for\nsmooth transition between rotations.\nThe lower the value the slower the\nadjustment. Only values between \n0 and 1 are usefull."
+                        },
+                        {
+                            "id": 4005,
+                            "value": {
+                                "type": "BaseContainer",
+                                "entries": [
+                                    {
+                                        "id": 1002,
+                                        "value": 0.1
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "limitations": [
+                    "Saved port IDs may differ when recreated; loader remaps per-port nested defaults.",
+                    "Reproduction must be verified in Cinema 4D; scene references are not included."
+                ]
+            }
+        }
+    ],
+    "Memory List": [
+        1022471,
+        300000135,
+        {
+            "kind": "python_preset",
+            "snapshot": {
+                "format": "cvfx.xpresso.python-node.snapshot.v1",
+                "original_xpool_path": "System Presets / General Presets / Memory List",
+                "operator_id": 1022471,
+                "name": "Memory List",
+                "python_source": "# Created by Niklas Rosenstein, 2015\r\n# Ported to Python 3 by Maxon 2021\r\n\r\nimport c4d\r\nfrom collections import deque\r\n\r\n\r\ndata = []\r\nport_types = []\r\nexclude_ports = frozenset(['Reset', 'HistoryLevel', 'Index'])\r\n\r\ndef get_frame():\r\n    \"\"\" Returns the current frame of the document. \"\"\"\r\n    return doc.GetTime().GetFrame(doc.GetFps())\r\n\r\n\r\ndef get_ports():\r\n    \"\"\" Get a list that contains all input and output nodes in pairs.\r\n    We only use port pairs that use the same datatype. \"\"\"\r\n\r\n    # Filter input ports that are always on the node.\r\n    ffunc = lambda x: x.GetName(op) not in exclude_ports\r\n    inports = filter(ffunc, op.GetInPorts())\r\n    outports = op.GetOutPorts()\r\n\r\n    # Filter pairs that have differing datatypes.\r\n    ffunc = lambda x_y: x_y[0].GetValueType() == x_y[1].GetValueType()\r\n    return list(filter(ffunc, zip(inports, outports)))\r\n\r\ndef get_port_value(port):\r\n    \"\"\" Return the value of an input port. \"\"\"\r\n\r\n    return globals()[port.GetName(op)]\r\n\r\ndef set_port_value(port, value):\r\n    \"\"\" Sets the value of an output port. \"\"\"\r\n\r\n    globals()[port.GetName(op)] = value\r\n\r\ndef main():\r\n    global Reset, HistoryLevel, Index\r\n    global port_types\r\n    ResetOnFrame0 = op[c4d.ID_USERDATA, 1]\r\n\r\n    #print get_frame()\r\n    ports = get_ports()\r\n\r\n    # Get a list of the port datatypes. We need to reset the\r\n    # memorized data if it changed.\r\n    datatypes = [x.GetValueType() for (x, __) in ports]\r\n    if datatypes != port_types:\r\n        port_types = datatypes\r\n        Reset = True\r\n\r\n    if Reset or (ResetOnFrame0 and get_frame() == 0):\r\n        data[:] = []\r\n\r\n    # Make sure we have enough and not too many lists to\r\n    # store values for each input/output pair.\r\n    while len(data) < len(ports):\r\n        data.append([])\r\n    if len(data) > len(ports):\r\n        data[:] = data[:len(ports)]\r\n\r\n    for (inport, outport), memory in zip(ports, data):\r\n        # Make sure we have enough entries to access the\r\n        # requested Index.\r\n        while Index >= len(memory):\r\n            memory.append(deque())\r\n\r\n        invalue = get_port_value(inport)\r\n        queue = memory[Index]\r\n        queue.append(invalue)\r\n\r\n        # If we reached th, e maximum number of elements\r\n        # to store frame, we pop one from the left.\r\n        if len(queue) >= HistoryLevel:\r\n            outvalue = queue.popleft()\r\n        else:\r\n            outvalue = queue[0]\r\n\r\n        set_port_value(outport, outvalue)",
+                "python_sha256": "db5f742fbd6a3d6a4e70f6c972143eb3166c9aa069cc325ba55f0a8f7fdb7347",
+                "ports": {
+                    "inputs": [
+                        {
+                            "name": "Reset",
+                            "main_id": 4009,
+                            "sub_id": 1000,
+                            "type_id": 400007001,
+                            "visible": true,
+                            "direction": "input"
+                        },
+                        {
+                            "name": "HistoryLevel",
+                            "main_id": 4001,
+                            "sub_id": 1001,
+                            "type_id": 400007002,
+                            "visible": true,
+                            "direction": "input"
+                        },
+                        {
+                            "name": "Index",
+                            "main_id": 4001,
+                            "sub_id": 1002,
+                            "type_id": 400007002,
+                            "visible": true,
+                            "direction": "input"
+                        },
+                        {
+                            "name": "Input1",
+                            "main_id": 4005,
+                            "sub_id": 1003,
+                            "type_id": 400007003,
+                            "visible": true,
+                            "direction": "input"
+                        }
+                    ],
+                    "outputs": [
+                        {
+                            "name": "Output1",
+                            "main_id": 4004,
+                            "sub_id": 1004,
+                            "type_id": 400007003,
+                            "visible": true,
+                            "direction": "output"
+                        }
+                    ]
+                },
+                "operator_container": {
+                    "type": "BaseContainer",
+                    "entries": [
+                        {
+                            "id": 402,
+                            "value": 0
+                        },
+                        {
+                            "id": 3999,
+                            "value": 1
+                        },
+                        {
+                            "id": 400,
+                            "value": "# Created by Niklas Rosenstein, 2015\r\n# Ported to Python 3 by Maxon 2021\r\n\r\nimport c4d\r\nfrom collections import deque\r\n\r\n\r\ndata = []\r\nport_types = []\r\nexclude_ports = frozenset(['Reset', 'HistoryLevel', 'Index'])\r\n\r\ndef get_frame():\r\n    \"\"\" Returns the current frame of the document. \"\"\"\r\n    return doc.GetTime().GetFrame(doc.GetFps())\r\n\r\n\r\ndef get_ports():\r\n    \"\"\" Get a list that contains all input and output nodes in pairs.\r\n    We only use port pairs that use the same datatype. \"\"\"\r\n\r\n    # Filter input ports that are always on the node.\r\n    ffunc = lambda x: x.GetName(op) not in exclude_ports\r\n    inports = filter(ffunc, op.GetInPorts())\r\n    outports = op.GetOutPorts()\r\n\r\n    # Filter pairs that have differing datatypes.\r\n    ffunc = lambda x_y: x_y[0].GetValueType() == x_y[1].GetValueType()\r\n    return list(filter(ffunc, zip(inports, outports)))\r\n\r\ndef get_port_value(port):\r\n    \"\"\" Return the value of an input port. \"\"\"\r\n\r\n    return globals()[port.GetName(op)]\r\n\r\ndef set_port_value(port, value):\r\n    \"\"\" Sets the value of an output port. \"\"\"\r\n\r\n    globals()[port.GetName(op)] = value\r\n\r\ndef main():\r\n    global Reset, HistoryLevel, Index\r\n    global port_types\r\n    ResetOnFrame0 = op[c4d.ID_USERDATA, 1]\r\n\r\n    #print get_frame()\r\n    ports = get_ports()\r\n\r\n    # Get a list of the port datatypes. We need to reset the\r\n    # memorized data if it changed.\r\n    datatypes = [x.GetValueType() for (x, __) in ports]\r\n    if datatypes != port_types:\r\n        port_types = datatypes\r\n        Reset = True\r\n\r\n    if Reset or (ResetOnFrame0 and get_frame() == 0):\r\n        data[:] = []\r\n\r\n    # Make sure we have enough and not too many lists to\r\n    # store values for each input/output pair.\r\n    while len(data) < len(ports):\r\n        data.append([])\r\n    if len(data) > len(ports):\r\n        data[:] = data[:len(ports)]\r\n\r\n    for (inport, outport), memory in zip(ports, data):\r\n        # Make sure we have enough entries to access the\r\n        # requested Index.\r\n        while Index >= len(memory):\r\n            memory.append(deque())\r\n\r\n        invalue = get_port_value(inport)\r\n        queue = memory[Index]\r\n        queue.append(invalue)\r\n\r\n        # If we reached th, e maximum number of elements\r\n        # to store frame, we pop one from the left.\r\n        if len(queue) >= HistoryLevel:\r\n            outvalue = queue.popleft()\r\n        else:\r\n            outvalue = queue[0]\r\n\r\n        set_port_value(outport, outvalue)"
+                        },
+                        {
+                            "id": 700,
+                            "value": {
+                                "type": "BaseContainer",
+                                "entries": [
+                                    {
+                                        "id": 1,
+                                        "value": 1
+                                    },
+                                    {
+                                        "id": 2,
+                                        "value": 2
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "id": 4009,
+                            "value": {
+                                "type": "BaseContainer",
+                                "entries": [
+                                    {
+                                        "id": 1005,
+                                        "value": 1
+                                    },
+                                    {
+                                        "id": 1000,
+                                        "value": 0
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "id": 4001,
+                            "value": {
+                                "type": "BaseContainer",
+                                "entries": [
+                                    {
+                                        "id": 1001,
+                                        "value": 2
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "id": 200000003,
+                            "value": "This enhanced Memory node allows for a List  of values to be stored per frame. The list items can be accessed using indices, e.g. wiith an iteration.\n\nThe user can create one or more Input and Output ports of the same corresponding type in this node, and they will match based on the port order.\nUsing the Reset port, the history can be cleared. It is commonly enabled at the first frame of the animation."
+                        }
+                    ]
+                },
+                "limitations": [
+                    "Saved port IDs may differ when recreated; loader remaps per-port nested defaults.",
+                    "Reproduction must be verified in Cinema 4D; scene references are not included."
+                ]
+            },
+            "user_data": [
+                {
+                    "id": 1,
+                    "name": "Reset on Frame 0",
+                    "type": "bool",
+                    "default": true
+                }
+            ],
+            "compatibility_notes": [
+                "Reconstructed required user-data checkbox; default enabled. Original user-data descriptor was not captured."
+            ]
+        }
+    ],
+    "Is Same Object": [
+        1022471,
+        300000135,
+        {
+            "kind": "python_preset",
+            "snapshot": {
+                "format": "cvfx.xpresso.python-node.snapshot.v1",
+                "original_xpool_path": "System Presets / Logic Presets / Is Same Object",
+                "operator_id": 1022471,
+                "name": "Is Same Object",
+                "python_source": "# Created by Niklas Rosenstein, 2015\n\ndef main():\n    global Result\n    Result = (ObjectA == ObjectB)\n",
+                "python_sha256": "c18424f9cc9c380c5fb2bdca7658ce614d784ad13ddb1e3e27b09efdd7cd2434",
+                "ports": {
+                    "inputs": [
+                        {
+                            "name": "ObjectA",
+                            "main_id": 4013,
+                            "sub_id": 1000,
+                            "type_id": 133,
+                            "visible": true,
+                            "direction": "input"
+                        },
+                        {
+                            "name": "ObjectB",
+                            "main_id": 4013,
+                            "sub_id": 1001,
+                            "type_id": 133,
+                            "visible": true,
+                            "direction": "input"
+                        }
+                    ],
+                    "outputs": [
+                        {
+                            "name": "Result",
+                            "main_id": 4008,
+                            "sub_id": 1002,
+                            "type_id": 400007001,
+                            "visible": true,
+                            "direction": "output"
+                        }
+                    ]
+                },
+                "operator_container": {
+                    "type": "BaseContainer",
+                    "entries": [
+                        {
+                            "id": 402,
+                            "value": 0
+                        },
+                        {
+                            "id": 3999,
+                            "value": 1
+                        },
+                        {
+                            "id": 400,
+                            "value": "# Created by Niklas Rosenstein, 2015\n\ndef main():\n    global Result\n    Result = (ObjectA == ObjectB)\n"
+                        },
+                        {
+                            "id": 200000003,
+                            "value": "This node will check if the object is the same in both Input ports.\nIt can be used in situations where the user wants to verify that the object in a link field is the same with an object of the scene."
+                        }
+                    ]
+                },
+                "limitations": [
+                    "Saved port IDs may differ when recreated; loader remaps per-port nested defaults.",
+                    "Reproduction must be verified in Cinema 4D; scene references are not included."
+                ]
+            }
+        }
+    ],
+    "Generate Matrix": [
+        1022471,
+        300000135,
+        {
+            "kind": "python_preset",
+            "snapshot": {
+                "format": "cvfx.xpresso.python-node.snapshot.v1",
+                "original_xpool_path": "System Presets / Matrix / Generate Matrix",
+                "operator_id": 1022471,
+                "name": "Generate Matrix",
+                "python_source": "import c4d\n\ndef main():\n    global NewMatrix\n    NewMatrix = c4d.utils.HPBToMatrix(Rotation)\n    NewMatrix.off = Position\n",
+                "python_sha256": "cdd164843d3f8d464394a611989539d0d347e638f017299f8b0453d8730ea3d1",
+                "ports": {
+                    "inputs": [
+                        {
+                            "name": "Rotation",
+                            "main_id": 4007,
+                            "sub_id": 1000,
+                            "type_id": 400007004,
+                            "visible": true,
+                            "direction": "input"
+                        },
+                        {
+                            "name": "Position",
+                            "main_id": 4007,
+                            "sub_id": 1001,
+                            "type_id": 400007004,
+                            "visible": true,
+                            "direction": "input"
+                        }
+                    ],
+                    "outputs": [
+                        {
+                            "name": "NewMatrix",
+                            "main_id": 4016,
+                            "sub_id": 1002,
+                            "type_id": 400007006,
+                            "visible": true,
+                            "direction": "output"
+                        }
+                    ]
+                },
+                "operator_container": {
+                    "type": "BaseContainer",
+                    "entries": [
+                        {
+                            "id": 402,
+                            "value": 0
+                        },
+                        {
+                            "id": 3999,
+                            "value": 1
+                        },
+                        {
+                            "id": 400,
+                            "value": "import c4d\n\ndef main():\n    global NewMatrix\n    NewMatrix = c4d.utils.HPBToMatrix(Rotation)\n    NewMatrix.off = Position\n"
+                        }
+                    ]
+                },
+                "limitations": [
+                    "Saved port IDs may differ when recreated; loader remaps per-port nested defaults.",
+                    "Reproduction must be verified in Cinema 4D; scene references are not included."
+                ]
+            }
+        }
+    ],
+    "To Hex": [
+        1022471,
+        300000135,
+        {
+            "kind": "python_preset",
+            "snapshot": {
+                "format": "cvfx.xpresso.python-node.snapshot.v1",
+                "original_xpool_path": "System Presets / String / To Hex",
+                "operator_id": 1022471,
+                "name": "To Hex",
+                "python_source": "import c4d\n\ndef main():\n    global Result\n    Result = \"%X\" % (Value & (2**32-1))\n",
+                "python_sha256": "b3a85738df8569b39f5bc17bb328608ff239c8e2996a3411425ea216be64285c",
+                "ports": {
+                    "inputs": [
+                        {
+                            "name": "Value",
+                            "main_id": 4001,
+                            "sub_id": 1002,
+                            "type_id": 400007002,
+                            "visible": true,
+                            "direction": "input"
+                        }
+                    ],
+                    "outputs": [
+                        {
+                            "name": "Result",
+                            "main_id": 4002,
+                            "sub_id": 1001,
+                            "type_id": 400007008,
+                            "visible": true,
+                            "direction": "output"
+                        }
+                    ]
+                },
+                "operator_container": {
+                    "type": "BaseContainer",
+                    "entries": [
+                        {
+                            "id": 402,
+                            "value": 0
+                        },
+                        {
+                            "id": 3999,
+                            "value": 1
+                        },
+                        {
+                            "id": 400,
+                            "value": "import c4d\n\ndef main():\n    global Result\n    Result = \"%X\" % (Value & (2**32-1))\n"
+                        },
+                        {
+                            "id": 4001,
+                            "value": {
+                                "type": "BaseContainer",
+                                "entries": [
+                                    {
+                                        "id": 1002,
+                                        "value": 65535
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "limitations": [
+                    "Saved port IDs may differ when recreated; loader remaps per-port nested defaults.",
+                    "Reproduction must be verified in Cinema 4D; scene references are not included."
+                ]
+            }
+        }
+    ],
+    "Python (set unique ID to uid_maxon)": [
+        1022471,
+        300000135,
+        {
+            "kind": "python_preset",
+            "snapshot": {
+                "format": "cvfx.xpresso.python-node.snapshot.v1",
+                "original_xpool_path": "System Presets / Thinking Particles / Python (set unique ID to uid_maxon)",
+                "operator_id": 1022471,
+                "name": "Python (set unique ID to uid_maxon)",
+                "python_source": "import c4d\n#Welcome to the world of Python\n\n#This script gives each particle an unique ID\n#so we can always identify the particle\n#and give it always the same shape\n\n#the UID counter\ncount = 0\n\ndata_channel_id = None\ndef GetUIDChannelID(tp):\n    \"\"\"\n    Returns the index of a data channel\n    called 'UID(Integer)' or None.\n    :return: The index or None if failed\n    \"\"\"\n    global data_channel_id\n    if data_channel_id!=None:\n        return data_channel_id\n\n    #lets browse the data channels and\n    #lets look for the name\n    name_to_look_for = \"uid_maxon(Integer)\"\n    for x in range(tp.NumDataChannels()):\n        name = tp.DataChannelName(x)\n        if name==name_to_look_for:\n            data_channel_id = x\n            return data_channel_id\n    #no channel found\n    return None\n\ndef main():\n    global data_channel_id\n    global count\n\n    #The user might change the data channel,\n    #so we have to reset the cached channel index\n    data_channel_id = None\n    \n    tp = doc.GetParticleSystem()\n    channelid = GetUIDChannelID(tp)\n    if channelid==None: return\n\n    tp.SetPData(Particle, channelid, count)\n    count+=1\n",
+                "python_sha256": "4e994c506372c963a956eb0500820072c8ddcfd3b40756fd05461413f8ee06e0",
+                "ports": {
+                    "inputs": [
+                        {
+                            "name": "Particle",
+                            "main_id": 4020,
+                            "sub_id": 1000,
+                            "type_id": 1001394,
+                            "visible": true,
+                            "direction": "input"
+                        }
+                    ],
+                    "outputs": [
+                        {
+                            "name": "count",
+                            "main_id": 4000,
+                            "sub_id": 1001,
+                            "type_id": 400007002,
+                            "visible": true,
+                            "direction": "output"
+                        }
+                    ]
+                },
+                "operator_container": {
+                    "type": "BaseContainer",
+                    "entries": [
+                        {
+                            "id": 402,
+                            "value": 0
+                        },
+                        {
+                            "id": 3999,
+                            "value": 1
+                        },
+                        {
+                            "id": 400,
+                            "value": "import c4d\n#Welcome to the world of Python\n\n#This script gives each particle an unique ID\n#so we can always identify the particle\n#and give it always the same shape\n\n#the UID counter\ncount = 0\n\ndata_channel_id = None\ndef GetUIDChannelID(tp):\n    \"\"\"\n    Returns the index of a data channel\n    called 'UID(Integer)' or None.\n    :return: The index or None if failed\n    \"\"\"\n    global data_channel_id\n    if data_channel_id!=None:\n        return data_channel_id\n\n    #lets browse the data channels and\n    #lets look for the name\n    name_to_look_for = \"uid_maxon(Integer)\"\n    for x in range(tp.NumDataChannels()):\n        name = tp.DataChannelName(x)\n        if name==name_to_look_for:\n            data_channel_id = x\n            return data_channel_id\n    #no channel found\n    return None\n\ndef main():\n    global data_channel_id\n    global count\n\n    #The user might change the data channel,\n    #so we have to reset the cached channel index\n    data_channel_id = None\n    \n    tp = doc.GetParticleSystem()\n    channelid = GetUIDChannelID(tp)\n    if channelid==None: return\n\n    tp.SetPData(Particle, channelid, count)\n    count+=1\n"
+                        },
+                        {
+                            "id": 401,
+                            "value": 1
+                        },
+                        {
+                            "id": 700,
+                            "value": {
+                                "type": "BaseContainer",
+                                "entries": [
+                                    {
+                                        "id": 1,
+                                        "value": 0
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "limitations": [
+                    "Saved port IDs may differ when recreated; loader remaps per-port nested defaults.",
+                    "Reproduction must be verified in Cinema 4D; scene references are not included."
+                ]
+            },
+            "compatibility_notes": [
+                "Changed legacy xrange to range for Python 3."
+            ]
+        }
+    ],
+    "Copy Map": [
+        1022471,
+        300000135,
+        {
+            "kind": "python_preset",
+            "snapshot": {
+                "format": "cvfx.xpresso.python-node.snapshot.v1",
+                "original_xpool_path": "System Presets / WeightMap / Selection Tag Presets / Copy Map",
+                "operator_id": 1022471,
+                "name": "Copy Map",
+                "python_source": "# Based on code created by Niklas Rosenstein, 2015\n\nimport c4d\n\ndef main():\n    global SourceTag, CopyTag\n\n    if not SourceTag or not CopyTag:\n        return\n    if not isinstance(SourceTag, c4d.VariableTag) and not isinstance(SourceTag, c4d.SelectionTag):\n        # Turns the XPresso Node yellow.\n        raise Exception('need a Vertex Map or a Selection SourceTag, but got ' + SourceTag.GetTypeName())\n    elif not isinstance(CopyTag, c4d.VariableTag) and not isinstance(CopyTag, c4d.SelectionTag):\n        # Turns the XPresso Node yellow.\n        raise Exception('need a Vertex Map or a Selection SourceTag, but got ' + SourceTag.GetTypeName())\n\n    if SourceTag.GetType() != CopyTag.GetType():\n        raise Exception('both tags need to be of the same type')\n\n    if SourceTag.GetType() == c4d.Tvertexmap:\n        if SourceTag.GetDataCount() != CopyTag.GetDataCount():\n            print(\"The two tags have different Count values\")\n            return\n        values = SourceTag.GetAllHighlevelData()\n        CopyTag.SetAllHighlevelData(values)\n\n    else:\n        sel = SourceTag.GetBaseSelect()\n        copySel = CopyTag.GetBaseSelect()\n        sel.CopyTo(copySel)",
+                "python_sha256": "c8c20d9b14159b8cd1ee1b480f2f78c76cf43853b8f4bd7528c9023f218db2ab",
+                "ports": {
+                    "inputs": [
+                        {
+                            "name": "SourceTag",
+                            "main_id": 4013,
+                            "sub_id": 1005,
+                            "type_id": 133,
+                            "visible": true,
+                            "direction": "input"
+                        },
+                        {
+                            "name": "CopyTag",
+                            "main_id": 4013,
+                            "sub_id": 1006,
+                            "type_id": 133,
+                            "visible": true,
+                            "direction": "input"
+                        }
+                    ],
+                    "outputs": []
+                },
+                "operator_container": {
+                    "type": "BaseContainer",
+                    "entries": [
+                        {
+                            "id": 402,
+                            "value": 0
+                        },
+                        {
+                            "id": 3999,
+                            "value": 1
+                        },
+                        {
+                            "id": 400,
+                            "value": "# Based on code created by Niklas Rosenstein, 2015\n\nimport c4d\n\ndef main():\n    global SourceTag, CopyTag\n\n    if not SourceTag or not CopyTag:\n        return\n    if not isinstance(SourceTag, c4d.VariableTag) and not isinstance(SourceTag, c4d.SelectionTag):\n        # Turns the XPresso Node yellow.\n        raise Exception('need a Vertex Map or a Selection SourceTag, but got ' + SourceTag.GetTypeName())\n    elif not isinstance(CopyTag, c4d.VariableTag) and not isinstance(CopyTag, c4d.SelectionTag):\n        # Turns the XPresso Node yellow.\n        raise Exception('need a Vertex Map or a Selection SourceTag, but got ' + SourceTag.GetTypeName())\n\n    if SourceTag.GetType() != CopyTag.GetType():\n        raise Exception('both tags need to be of the same type')\n\n    if SourceTag.GetType() == c4d.Tvertexmap:\n        if SourceTag.GetDataCount() != CopyTag.GetDataCount():\n            print(\"The two tags have different Count values\")\n            return\n        values = SourceTag.GetAllHighlevelData()\n        CopyTag.SetAllHighlevelData(values)\n\n    else:\n        sel = SourceTag.GetBaseSelect()\n        copySel = CopyTag.GetBaseSelect()\n        sel.CopyTo(copySel)"
+                        },
+                        {
+                            "id": 4001,
+                            "value": {
+                                "type": "BaseContainer",
+                                "entries": [
+                                    {
+                                        "id": 1006,
+                                        "value": 0
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "id": 200000003,
+                            "value": "This node will copy a Vertex Weight Map or a Selection tag to another Vertex Weight Map or to a Selection tag.\nBoth tags need to be of the same type."
+                        },
+                        {
+                            "id": 4009,
+                            "value": {
+                                "type": "BaseContainer",
+                                "entries": [
+                                    {
+                                        "id": 1008,
+                                        "value": 0
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "limitations": [
+                    "Saved port IDs may differ when recreated; loader remaps per-port nested defaults.",
+                    "Reproduction must be verified in Cinema 4D; scene references are not included."
+                ]
+            }
+        }
+    ]
+}
