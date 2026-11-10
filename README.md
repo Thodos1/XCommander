@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Python-3.x-3776AB?style=flat-square&logo=python&logoColor=blue">
   <img src="https://img.shields.io/badge/Cinema-4D-8A2BE2?style=flat-square">
   <img src="https://img.shields.io/badge/License-MIT-green?style=flat-square">
-  <img src="https://img.shields.io/github/downloads/Thodos1/XCommander/total?style=flat-square&color=orange">
+  <img src="https://img.shields.io/github/downloads/Thodos1/XCommander/V.1.0.0/total?style=flat-square&color=orange&label=Downloads">
 </p>
 
 Searchbar for Xpresso Node Editor
